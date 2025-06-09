@@ -6,7 +6,7 @@ A simple backend application to perform CRUD operations on movies using **Expres
 - Add a new movie 🎥
 - Get all movies 📄
 - Update movie info ✏️
-- Delete a movie ❌
+- Delete a movie ❌ 
 
 ## 🛠 Tech Stack
 - Node.js
