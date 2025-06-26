@@ -1,7 +1,7 @@
 # 🎬 Movie-CRUD-App
 
 A simple backend application to perform CRUD operations on movies using **Express.js** and **MongoDB**.
-
+  
 ## 📦 Features
 - Add a new movie 🎥   
 - Get all movies 📄
